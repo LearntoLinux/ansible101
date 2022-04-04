@@ -6,4 +6,4 @@
       - vars.yml # A file containing all the build information
       - secrets.yml # A secrets file (that you could vault) holding credentials
    tasks: 
-   - name: Clone multiple VMs from template
+   - name: Task
